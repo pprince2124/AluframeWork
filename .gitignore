@@ -39,3 +39,4 @@ public/uploads/
 *.seed
 *.tgz
 .cache/
+.paclkage-lock.json
